@@ -1,0 +1,31 @@
+QUICK TABLE CALCULATIONS
+-RUNNING TOTAL
+-DIFFERENCE
+-MOVING AVERAGE
+-PERCENT DIFFRENCE
+-PERCENTILE	-- (RANK-1/NO OF ROWS -1) *100
+-PERCENT OF TOTAL
+-RANK
+-YOY-YEAR OVER YEAR === current year- previous yer/previous year *100
+-MOM - MONTH OVER MONTH == current month - previous month/previous month*100
+-compound grouth rate----(( selected year/start year)^1/no of years)-1 *100
+
+
+YTD
+==============
+IF YEAR([Order Date]) = YEAR(TODAY()) AND
+[Order Date] <= TODAY() THEN [Sales] END
+
+MTD
+=================
+IF YEAR([Order Date])=YEAR(TODAY())AND
+MONTH([Order Date])=MONTH(TODAY())AND
+[Order Date]<= TODAY() THEN [Sales]END
+
+QTD
+==========================
+IF YEAR([Order Date])= YEAR(TODAY())
+AND
+QUARTER([Order Date])=QUARTER(TODAY())
+AND
+[Order Date]<= TODAY() THEN [Sales] END

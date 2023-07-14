@@ -1,0 +1,24 @@
+tableau's products
+==================
+-tableau desktop
+-tableau server
+-tableau online
+-tableau mobile
+-tableau prep
+-tableau reader
+-tableau public
+
+tableau extensions
+-.twb- tab workbook
+-.twbx- packaged workbook
+-.tds- datasource
+-.tdsx-- packaged data source
+-.tbm---bookmark
+-.hyper or .tde
+-.tps
+-.tms
+
+combin
+group
+set
+parameter

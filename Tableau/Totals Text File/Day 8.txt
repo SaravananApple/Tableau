@@ -1,0 +1,7 @@
+DASHBOARD ACTIONS 
+-filter
+-highlight
+-go to sheet
+-go to url
+-change parameter
+-change set values

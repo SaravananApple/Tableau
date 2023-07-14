@@ -1,0 +1,8 @@
+hierarchy
+lod-level of details
+
+fixed
+exclude
+include
+
+bins- range of values

@@ -1,0 +1,27 @@
+filters
+========
+datasource filter
+extract fillter
+quick filter
+-dimension filter
+-measure filter
+cascading filter
+context filter
+
+order of execution of filter
+============================
+extract filter
+datasource
+context 
+dimension
+measure
+tab cal
+
+dual axis
+blended axis
+synchronizing axis
+
+donut
+lolipop
+
+

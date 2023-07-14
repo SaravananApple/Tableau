@@ -1,0 +1,46 @@
+Connection:-
+
+Date Modelling :-
+	 Every data source that,we're create in Tableau, has a data model by using the 
+	 Relationship,Join and Union.
+
+===================================================================================================================
+
+Data model has two layers
+	*Logical Layer (Default)
+	*Physical Layer
+
+===================================================================================================================
+Logical Layer :-
+
+	*Introduced in 2020.3
+	*We used to combine data in the logical layer using relationships (or noodles)
+	*Each logical table contains at least one physical table in this layer
+	*Double-click a logical table to view or add joins and unions.
+===================================================================================================================
+
+
+Physical Layer :-
+	* combine data between tables at the physical layer using joins and unions.
+
+	*We can join upto 32 Tables
+	
+1.Inner Joint -
+	 Match the recoreds from both table.(Default Join)
+2.Left outer joint - 
+	Match the recoreds from both table and unmatched records from left table. 
+3.Right outer joint - 
+	Match the recoreds from both table and unmatched records from right table. 
+4.Full outer joint- 
+	All recoreds from both table.
+
+
+===================================================================================================================
+
+Cross DB Join 
+	Join the tables from different data source
+
+Data Blending 
+	1.Combine the data from the different data source. 1.Excel and 2.Orcle and 3.My SQL	
+
+===================================================================================================================

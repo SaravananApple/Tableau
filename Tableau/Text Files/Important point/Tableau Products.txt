@@ -1,0 +1,53 @@
+Tableau Desktop
+- Core component for the code developers
+- It is the place where complete development will takes place [new report, new chart, etc]
+- License Version / 14 day trial
+
+Tableau Server
+- Core component for tableau administrator
+- Mainly used to set up complete security
+- An automation to make sure the hosted dashboards are published properly, and accessible at any given point of time.
+- License Version / 14 day trial
+
+License like subscription based also available depending on the number of users
+
+Tableau Reader
+
+- Free application which is mainly used to share the visualization built on tableau desktop locally
+- For example if you want to show your dashboard to Management where they don't have license ,then you can ask them to install tableau reader
+
+save the tableau workbook as Tableau Packaged workbook, then the person with tableau reader access can see the particular visualization
+ - note that interactions cannot be accessed, can only look at the static view of that development
+
+
+Tableau Public
+
+- Is used to share the visualizations publicly to anyone
+- Browser based environment
+- Go to google type Tableau publich then do sign up , then you can publish your workbook, then anyone can access it
+- Remember do not pubish any cofidential data because it is publicly accessible one
+
+
+Tableau Online
+
+- It is similar to Tableau Server
+- Only difference is at Tableau Server we need to do all set up
+- Tableau online is SAAS product Software As A service, you no need to maintain any security , you no need to install / upgrade etc, everything maintain by Tableau.
+- Once you Signup you will be proovisioned your workspace to use it .
+- Licensed version / free trial 14 day version.
+
+
+Tableau Mobile
+
+- Whatever dashboards developed using Tableau Desktop / Server / online can be accessed via Tableau Mobile also
+- Install from play store and sign up and access your dashboards
+
+
+Tableau Prep
+
+- Mainly used for ETL data source
+- Before prep we may have used 3rd party tools , different ETL tools
+- It is similar to tableau desktop where it is a very simple drag and drop interface, use this environment to transfer data , joins can be used , can export output file to excel / can be used as automated
+- Tableau pre is free of cost if you have tableau desktop key , can use same Tableau Desktop key
+
+

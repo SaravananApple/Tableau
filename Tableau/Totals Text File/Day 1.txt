@@ -1,0 +1,60 @@
+Tableau:
+=================
+tableau is one the visualization tool.
+it will take the raw data convert in the form of chart
+
+visualiztaion tools
+==================
+tableau 
+power bi
+splash bi
+
+advantage
+===========
+high performance
+ease to use
+
+dis-advantage
+===============
+need manual effort
+no automatic refreshing of report
+
+why tableau?
+================
+tableau will support huge amount of data
+
+discrete : distinct set of values. it represent i blue colour
+contiuous- range of values. it represent in gree color
+
+dimension: qualitative values
+measures: quantitative values
+
+data type
+============================
+number
+string
+date
+datetime
+boolean
+geographic
+========================
+types of connections
+-live
+-extract
+
+default chart : bar
+defaults charts: 24
+
+workbook contain :255
+max column :50
+tables: 32
+
+
+
+
+
+
+
+
+
+
